@@ -1,3 +1,5 @@
+![](https://github-readme-stats.vercel.app/api?username=brillianjs&theme=dark&hide_border=false&include_all_commits=true&count_private=false)
+
 <h1 align="center">Hi 👋, I'm Jouska Brillian</h1>
 <h3 align="center">A passionate frontend developer from Indonesia</h3>
 
